@@ -1,0 +1,61 @@
+<Story>
+    <StoryName>Horse Thief - Life Extended Cheat</StoryName>
+    <StoryDescription>A thief they call you! But they will have to catch you first! You were sick of that crappy job anyway. You were meant to be more than a stablehand, shovelling shit for that ungrateful bastard! You will rule the world one day! </StoryDescription>
+    <StartingDescription>A horse, a large coffer of gold, a large amount of skill points to develop your character and a starting rank of 10. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>1</Leadership>
+      <Productivity>2</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Nobody knows of your crime except from your old stable master, the bandits don't see any point in attacking you and the Deserters have their own problems.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Ride from town to town on your new horse, join the bandits or set up your own warband and steal all the horses your heart desires.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

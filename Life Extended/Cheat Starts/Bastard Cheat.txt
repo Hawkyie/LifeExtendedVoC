@@ -1,0 +1,61 @@
+<Story>
+    <StoryName>Bastard - Life Extended Cheat</StoryName>
+    <StoryDescription>You never knew your father, he left before you were born. You mother did her best to raise you on her own, but she died while you were young. One day a merchant came to your village, the sword he was selling, you recognise an inscription, something from your past. You had to have it. Now its time to venture out into the world...</StoryDescription>
+    <StartingDescription>A Bastard you may be poor you are not! Start with 100000 Gold, 15 skill points to develop your character and a starting rank of 10. Nobody knows you, make your own friends or enemies.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>2</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and desserters would kill for that sword.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You are best finding some work to fund your journey. Towns and villages are the best places to do this. Perhaps some followers could help.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

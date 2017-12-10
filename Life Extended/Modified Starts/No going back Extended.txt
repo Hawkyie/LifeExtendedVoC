@@ -1,0 +1,66 @@
+<Story>
+    <StoryName>No going back</StoryName>
+    <StoryDescription>It was supposed to be an easy job.. just break-in while the villagers were at harvest. Simple. No-one saw them coming, the villagers returned early and recognised us instantly. They attacked without warning, we ended up killing many and in the chaos, a fire was started. The village burnt to the ground killing the many women and children. We attempted to catch the remaining villagers but some got away .. now the lord wants our heads.</StoryDescription>
+    <StartingDescription>A small band of fighters, small amount of gold, a cart of resources, 5 skill points to develop your character and a handful of prisoners. </StartingDescription>
+    <StartingGold>475</StartingGold>
+    <StartingRank>2</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>4</PopulationAmounts>
+    <prisonersAmount>6</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>3</HelmetRef>
+      <ArmourRef>2</ArmourRef>
+      <LeggingsRef>2</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>47</ResourceAmount>
+    <RelationText>Bandits are your only friend here, everyone else wants your head on a stick.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>40</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>Seek out bandit camps, for they are your only salvation. You can find work and perhaps hire some followers to join your cause. </GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

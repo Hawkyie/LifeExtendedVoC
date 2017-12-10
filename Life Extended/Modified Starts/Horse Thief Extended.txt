@@ -1,0 +1,61 @@
+<Story>
+    <StoryName>Horse Thief - Life Extended</StoryName>
+    <StoryDescription>A thief they call you! But they will have to catch you first! You were sick of that crappy job anyway. You were meant to be more than a stablehand, shovelling shit for that ungrateful bastard! You will rule the world one day! </StoryDescription>
+    <StartingDescription>A horse, some gold and 5 skill points to develop your character. </StartingDescription>
+    <StartingGold>250</StartingGold>
+    <StartingRank>2</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>1</Leadership>
+      <Productivity>2</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions look at you unfavourably, however, you have not caught wind of any price on your head. Bandits like you, Deserters will still kill you.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>10</Rel>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Although you are unpopular, very few know of your crime. You can either find work with the village folk, or perhaps try joining the bandits guild. Those are your best options.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

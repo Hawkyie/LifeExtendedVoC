@@ -1,0 +1,136 @@
+You start alone with a large coffer of gold, 
+a spear you once found when exploring a battlefield, 
+a large amount of skill points to develop your character 
+and a starting rank of 10.
+
+
+Weapons:
+Staff - 0
+Short Sword - 1
+Bastard Sword - 2
+Militia spear - 3
+Footman sword - 4
+Rusty Sword - 5
+Norseman axe - 6
+Guisearme - 7
+Spontoon - 8
+Morning Star - 9
+Woodsmens Axe - 10
+Rusty Axe - 11
+Dane Axe - 12
+Claymore - 13
+Halberd - 14
+Bardiche - 15
+Lucerne Hammer - 16
+Lance - 17
+Mace - 18
+Warhammer - 19
+
+Shields:
+None - 0
+Small wooden Shield - 1
+Round Shield - 2
+Hard wood Shield - 3
+Footman Shield - 4
+Leather shield - 5
+Buckler - 6
+Kite Shield - 7
+Knights shield - 8
+Tower Shield - 9
+Heavy round shield - 10
+
+Helmets:
+None - 0
+Metal Helmet - 1
+Leather Helmet - 2
+Leather Skullcap - 3
+Skullcap - 4
+Pot Helm - 5
+Leather Pot Helm - 6
+Sugarloaf Helm - 7
+Steel Skullcap - 8
+Gold Skullcap - 9
+Iron Kettle Helm - 10
+Pig Faced Bascinet - 11
+Kettle Helm - 12
+Plated Pot Helm - 13
+Steel Plated Pot Helm - 14
+Sallet - 15
+Occular Kettle Helm - 16
+Crusader Helm - 17
+
+Armour:
+Woollen gambeson - 0
+Heavy gambeson - 1
+Boiled leather vest - 2
+Light gambeson - 3
+Mail Gambeson - 4
+Peasant Clothes - 5
+Surcoat - 6
+Scale Armour - 7
+Leather Surcoat - 8
+Leather Surcoat - 9
+Studded Surcoat - 10
+Studded Surcoat - 11
+Studded Surcoat - 12
+Studded Surcoat - 13
+Studded Surcoat - 14
+Leather Armour - 15
+Leather Armour - 16
+Leather Armour - 17
+Leather Armour - 18
+Leather Armour - 19
+Peasant Clothes - 20
+Peasant Clothes - 21
+Peasant Clothes - 22
+Peasant Clothes - 23
+Peasant Clothes - 24
+Chain Shirt - 25
+Padded Gambeson - 26
+Padded Gambeson - 27
+Padded Gambeson - 28
+Padded Gambeson - 29
+Padded Gambeson - 30
+Surcoat - 31
+Surcoat - 32
+Surcoat - 33
+Surcoat - 34
+Surcoat - 35
+Hardened Leather Gambeson - 36
+Studded Leather Gambeson - 37
+Studded Vest - 38
+Plated Gambesson - 39
+Leather Coat - 40
+Heavy Weaved Gambeson - 41
+Studded Leather Gambeson - 42
+Heavy Scale armour - 43
+Scale Surcoat - 44
+
+Boots:
+Leather boots - 0
+Boots - 1
+Hardened leather boots - 2
+Leather Boots - 3
+
+Leggings:
+Leather leggings - 0
+Rags - 1
+Leggings - 2
+Boiled leather leggings - 3
+Chainmail Leggings - 4
+Leggings - 5
+Heavy Leather Leggings - 6
+Studded leggings - 7
+
+Horses:
+None - 0
+Bay - 1
+Bay Pinto - 2
+Black - 3
+Black Pinto - 4
+Chestnut - 5
+Chestnut Pinto - 6
+Grey - 7
+Palomino - 8
+Palomino Pinto - 9
+White - 10

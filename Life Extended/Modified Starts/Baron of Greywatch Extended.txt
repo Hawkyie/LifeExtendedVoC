@@ -1,0 +1,69 @@
+<Story>
+    <StoryName>Lord of Greywatch - Life Extended</StoryName>
+    <StoryDescription>Your faction is small, a backwater town on a backwater island. Most know nothing of your house but one day they shall kneel before you. It's time to conquer the land, and take the throne!</StoryDescription>
+    <StartingDescription>Start with a town, some villages, a small army, some skill points and a starting rank of 7. Build your House as you see fit m'lord.</StartingDescription>
+    <StartingGold>3000</StartingGold>
+    <StartingRank>7</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+      <PopTypeEnum>7</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>2</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>1</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>4</WeaponRef>
+      <ShieldRef>2</ShieldRef>
+      <HelmetRef>4</HelmetRef>
+      <ArmourRef>44</ArmourRef>
+      <LeggingsRef>7</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>3</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. Some see you more favorably than others.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>5</Rel>
+      <Rel>-10</Rel>
+      <Rel>0</Rel>
+      <Rel>-5</Rel>
+      <Rel>8</Rel>
+      <Rel>-2</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Upgrade your town and initiate trade with other factions. You will need a supply of steel and leather if you wish to conquer the world.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>0</Town>
+      <Town>1</Town>
+      <Town>2</Town>
+      <Town>3</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Greywatch</StartingTownName>
+  </Story>

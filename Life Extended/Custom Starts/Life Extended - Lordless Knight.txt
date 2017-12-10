@@ -1,0 +1,61 @@
+<Story>
+    <StoryName>Lordless Knight</StoryName>
+    <StoryDescription>You are a trained Knight, with no lord or loyalties. Set out into the world and find a new lord or become the most powerful faction in the land.</StoryDescription>
+    <StartingDescription>You start alone with some of the finest armour and weapons around, a pouch of gold and a fine steed.</StartingDescription>
+    <StartingGold>600</StartingGold>
+    <StartingRank>9</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>4</Leadership>
+      <Productivity>1</Productivity>
+      <Authority>4</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>13</WeaponRef>
+      <ShieldRef>8</ShieldRef>
+      <HelmetRef>15</HelmetRef>
+      <ArmourRef>43</ArmourRef>
+      <LeggingsRef>4</LeggingsRef>
+      <BootsRef>2</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you but be wary of bandits looking for you gear.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-20</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Choose the path for your new life and become the most renown Knight in the land.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

@@ -1,0 +1,44 @@
+
+Current Version: v1.2
+
+
+-Life extended contains the following features-
+
+
+
+- Extended classes for all of the base game classes. This can be anything from changing the starting items or location up to completely reworking it depending on the setting.
+
+- Adding Cheat versions for all of the base game classes. This is pretty self explanatory.
+
+- Adding custom starting conditions for the players to enjoy, offers a wider variety of game play and styles.
+
+- Fixes, this is mainly correcting typos and such; nothing major but there just in case.
+
+
+
+The following is how to install the new files to your game. -The .rar file contains backups of all files I have edited but I would recommend making your own just in case-
+
+Life Extended Main File - To swap out, YOURDRIVE:// -> Steam -> steamapps -> Common -> Veil of Crows -> windows_content -> VeilOfCrows_Data -> Resources -> Mods -> Default.  - There will only be a mods folder if you are on the testbranch version.
+Once you are inside the correct folder you will see a bunch of .xml files. Just simply drag and drop StartingConditionsXML.xml from the Life Extended .rar and swap them out for the original.
+
+Fixes - YOURDRIVE:// -> Steam -> steamapps -> Common -> Veil of Crows -> windows_content -> VeilOfCrows_Data -> Resources -> Mods -> Default | You will only have a mods folder if you are on the testbranch.
+This only contains a game hints file at this stage, simply corrected typos, fixed errors and grammar.
+
+
+Inside the Life Extended folder you will also find .txt documents containing all references for weapon, Armour, and horse ID's along with location ID's.
+
+The folder also contains indivdual .txt files which contain each of the edited starter conditions; so if you want to change them to your own liking you can edit the txt and replace it in the main file.
+
+
+If you have any questions, queries or comebacks you can find me on the ModDB page, Veil of Crows Forum, Steam or on Twitter.
+
+Please, any suggestions or bug reports just let me know and I will have them fixed ASAP.
+
+Thanks for downloading and if you enjoy my work, consider giving it a rate and maybe a comment expressing your opinions.
+
+Links:
+
+Twitter: https://twitter.com/hawkyie
+Steam: http://steamcommunity.com/app/601540/discussions/4/2765630416810824411/
+Veil of Crows Website: https://www.veilofcrows.com/
+ModDB: http://www.moddb.com/mods/life-extended

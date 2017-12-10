@@ -1,0 +1,2292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StartingConditions>
+	<Story>
+    <StoryName>Adventurer</StoryName>
+    <StoryDescription>Adventure is what you seek! The day had finally come to leave your hovel, pick up your weapon, and see where your shoes take you. Today is a new day. </StoryDescription>
+    <StartingDescription>You start alone with a little gold, a trusty sword and shield. </StartingDescription>
+    <StartingGold>120</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef> 2</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They will attack on sight.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Your best chance is to seek some work, and perhaps some company. Visiting some of the local villages may prove fruitful.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Adventurer - Life Extended</StoryName>
+    <StoryDescription>A modified version of the Adventurer Starting Class modified by Life Extended</StoryDescription>
+    <StartingDescription>You start alone with little gold, a trusty sword and shield and some skill points to develop your character. </StartingDescription>
+    <StartingGold>500</StartingGold>
+    <StartingRank>4</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef> 2</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They will attack on sight.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Your best chance is to seek some work, and perhaps some company. Visiting some of the local villages may prove fruitful.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Adventurer - Life Extended Cheat</StoryName>
+    <StoryDescription>A Copy of the Adventurer class except you start with 100000 gold and all factions are Neutral.</StoryDescription>
+    <StartingDescription>You start alone with a large coffer of gold, a trusty sword and shield, a large amount of skill points to develop your character and a starting rank of 10. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef> 2</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, form relations and alliances with factions as you see fit Adventurer.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Your best chance is to become King of the realm and crush your enemies.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Wanderer</StoryName>
+    <StoryDescription>You are a wanderer, travelling the world alone has been the only thing that has granted you peace since you left your past behind.. all those years ago. You do not talk about your past, but a deep sense of justice and vengeance burns inside you. It is time for you to pick up a sword once again..</StoryDescription>
+    <StartingDescription>You start alone with very little gold, and a spear you once found when exploring a battlefield. </StartingDescription>
+    <StartingGold>80</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>3</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They will attack on sight.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Time to gain some followers, before striking vengeance on this violent and deserving world. Local villages may have work, and there may even be people willing to join you.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Wanderer - Life Extended</StoryName>
+    <StoryDescription>You are a wanderer, travelling the world alone has been the only thing that has granted you peace since you left your past behind.. all those years ago. You do not talk about your past but a deep sense of justice and vengeance burns inside you. It is time for you to pick up a sword once again..</StoryDescription>
+    <StartingDescription>You start alone with very little gold, a spear you once found when exploring a battlefield and 5 skill points to develop your character. </StartingDescription>
+    <StartingGold>450</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>3</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They will attack on sight.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Time to gain some followers, before striking vengeance on this violent and deserving world. Local villages may have work and there may even be people willing to join you.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Wanderer - Life Extended Cheat</StoryName>
+    <StoryDescription>You are a wanderer, travelling the world alone has been the only thing that has granted you peace since you left your past behind.. all those years ago. You do not talk about your past but a deep sense of justice and vengeance burns inside you. It is time for you to pick up a sword once again..</StoryDescription>
+    <StartingDescription>You start alone with a large coffer of gold, a spear you once found when exploring a battlefield, a large amount of skill points to develop your character and a starting rank of 10. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>3</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, form relations and alliances with factions as you see fit Adventurer.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Your best chance is to become King of the realm and crush your enemies.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Refugee</StoryName>
+    <StoryDescription>Your village burned, your livestock killed, and you barely escaped with your life. Without a home, you and a few other survivors have been hiding out in the wilderness as the local lord was too deep into mead to take pity on a few villagers. Barely getting by, day by day. In desperate times you have been elected their leader. You must lead these people to safety. </StoryDescription>
+    <StartingDescription>You begin with a few peasants and even smaller amount of gold. </StartingDescription>
+    <StartingGold>50</StartingGold>
+    <StartingRank>0</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>12</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>22</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you, except Bandits and Deserters.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>You will need gold for what lies ahead, seek out towns and villages to find some work. You may benefit from training your people to fight.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Refugee - Life Extended</StoryName>
+    <StoryDescription>Your village burned, your livestock killed and you barely escaped with your life. Without a home, you and a few other survivors have been hiding out in the wilderness as the local lord was too deep into mead to take pity on a few villagers. Barely getting by, day by day. In desperate times you have been elected their leader. You must lead these people to safety. </StoryDescription>
+    <StartingDescription>You begin with a few peasants, a smaller amount of gold and a few skill points to develop your character. </StartingDescription>
+    <StartingGold>175</StartingGold>
+    <StartingRank>0</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>12</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>22</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you, except Bandits and Deserters.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>You will need gold for what lies ahead, seek out towns and villages to find some work. You may benefit from training your people to fight.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Refugee - Life Extended Cheat</StoryName>
+    <StoryDescription>Your village burned, your livestock killed and you barely escaped with your life. Without a home, you and a few other survivors have been hiding out in the wilderness as the local lord was too deep into mead to take pity on a few villagers. Barely getting by, day by day. In desperate times you have been elected their leader. You must lead these people to safety. </StoryDescription>
+    <StartingDescription>You begin with a warband of peasants, a large coffer a gold, a large amount of skill points to develop your character and a starting rank of 10. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>25</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>22</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Time to take on the realm, can you train your peasants into fearsome warriors and give them the blood they seek?</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Deserter</StoryName>
+    <StoryDescription>Disgraced, abandoned, and hunted. You had to do it. Your general was foolish, he had to die.. The mutiny cost you your title, your home, and perhaps someday.. your life. Your small army stands with you. For they owe you their life. </StoryDescription>
+    <StartingDescription>Start with a small army of experienced soldiers, a small amount of gold. </StartingDescription>
+    <StartingGold>120</StartingGold>
+    <StartingRank>5</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>4</PopTypeEnum>
+      <PopTypeEnum>1</PopTypeEnum>
+      <PopTypeEnum>2</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>6</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>4</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>4</Authority>
+      <Diplomacy>2</Diplomacy>
+      <WeaponRef>3</WeaponRef>
+      <ShieldRef>3</ShieldRef>
+      <HelmetRef>4</HelmetRef>
+      <ArmourRef>4</ArmourRef>
+      <LeggingsRef>0</LeggingsRef>
+      <BootsRef>0</BootsRef>
+      <HorseRef>7</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Every faction is after your head... except Deserters of course.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>40</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>The world wants you dead, but there are others in your situation. You would benefit from seeking out other deserters. Perhaps taking a village to use as a base of operations could help along the way.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Deserter - Life Extended</StoryName>
+    <StoryDescription>Disgraced, abandoned and hunted. You had to do it your general was foolish, he had to die.. The mutiny cost you your title, your home and perhaps someday.. your life. Your small army stands with you. For they owe you their life. </StoryDescription>
+    <StartingDescription>Start with a small army of experienced soldiers, a small amount of gold and 5 skill points to develop your character. </StartingDescription>
+    <StartingGold>630</StartingGold>
+    <StartingRank>5</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>4</PopTypeEnum>
+      <PopTypeEnum>1</PopTypeEnum>
+      <PopTypeEnum>2</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>6</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>4</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>4</Authority>
+      <Diplomacy>2</Diplomacy>
+      <WeaponRef>3</WeaponRef>
+      <ShieldRef>3</ShieldRef>
+      <HelmetRef>4</HelmetRef>
+      <ArmourRef>4</ArmourRef>
+      <LeggingsRef>0</LeggingsRef>
+      <BootsRef>0</BootsRef>
+      <HorseRef>7</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Every faction is after your head... except Deserters of course.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>40</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>The world wants you dead, but there are others in your situation. You would benefit from seeking out other deserters. Perhaps taking a village to use as a base of operations could help along the way.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Deserter - Life Extended Cheat</StoryName>
+    <StoryDescription>Disgraced, abandoned and hunted. You had to do it your general was foolish, he had to die.. The mutiny cost you your title, your home and perhaps someday.. your life. Your small army stands with you. For they owe you their life. You managed to escape your old life and now you have reached new lands, ripe for the taking. </StoryDescription>
+    <StartingDescription>Start with a small army of experienced soldiers, a large coffer of gold, a large amount of skill points to develop your character and a starting rank of 15. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>15</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>4</PopTypeEnum>
+      <PopTypeEnum>1</PopTypeEnum>
+      <PopTypeEnum>2</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>6</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>4</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>4</Authority>
+      <Diplomacy>2</Diplomacy>
+      <WeaponRef>3</WeaponRef>
+      <ShieldRef>3</ShieldRef>
+      <HelmetRef>4</HelmetRef>
+      <ArmourRef>4</ArmourRef>
+      <LeggingsRef>0</LeggingsRef>
+      <BootsRef>0</BootsRef>
+      <HorseRef>7</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Upon reaching new lands, it is up to you to decide who is your enemy and who is not.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>40</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>You have a small army of experienced soldiers, a large coffer of gold and a new world to conquer; strive for greatness.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Horse Thief</StoryName>
+    <StoryDescription>A thief they call you! But they will have to catch you first! You were sick of that crappy job anyway. You were meant to be more than a stablehand, shovelling shit for that ungrateful bastard! You will rule the world one day! </StoryDescription>
+    <StartingDescription>A horse and some gold.. that is all. </StartingDescription>
+    <StartingGold>80</StartingGold>
+    <StartingRank>2</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>1</Leadership>
+      <Productivity>2</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions look at you unfavourably, however, you have not caught wind of any price on your head. Bandits like you, Deserters will still kill you.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>10</Rel>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Although you are unpopular, very few know of your crime. You can either find work with the village folk, or perhaps try joining the bandits guild. Those are your best options.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Horse Thief - Life Extended</StoryName>
+    <StoryDescription>A thief they call you! But they will have to catch you first! You were sick of that crappy job anyway. You were meant to be more than a stablehand, shovelling shit for that ungrateful bastard! You will rule the world one day! </StoryDescription>
+    <StartingDescription>A horse, some gold and 5 skill points to develop your character. </StartingDescription>
+    <StartingGold>250</StartingGold>
+    <StartingRank>2</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>1</Leadership>
+      <Productivity>2</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions look at you unfavourably, however, you have not caught wind of any price on your head. Bandits like you, Deserters will still kill you.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>10</Rel>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+      <Rel>-15</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Although you are unpopular, very few know of your crime. You can either find work with the village folk, or perhaps try joining the bandits guild. Those are your best options.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Horse Thief - Life Extended Cheat</StoryName>
+    <StoryDescription>A thief they call you! But they will have to catch you first! You were sick of that crappy job anyway. You were meant to be more than a stablehand, shovelling shit for that ungrateful bastard! You will rule the world one day! </StoryDescription>
+    <StartingDescription>A horse, a large coffer of gold, a large amount of skill points to develop your character and a starting rank of 10. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>1</Leadership>
+      <Productivity>2</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Nobody knows of your crime except from your old stable master, the bandits don't see any point in attacking you and the Deserters have their own problems.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Ride from town to town on your new horse, join the bandits or set up your own warband and steal all the horses your heart desires.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>No going back</StoryName>
+    <StoryDescription>It was supposed to be an easy job.. just break-in while the villagers were at harvest. Simple. No-one saw them coming. The villagers returned early and recognised us instantly. They attacked without warning, we ended up killing many, and in the chaos, a fire was started, and the village burned. We attempted to catch the remaining villagers, but some got away .. now the lord wants our heads.</StoryDescription>
+    <StartingDescription>A small band of fighters, some gold, and a few prisoners.. they may catch a price. </StartingDescription>
+    <StartingGold>200</StartingGold>
+    <StartingRank>2</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>4</PopulationAmounts>
+    <prisonersAmount>6</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>3</HelmetRef>
+      <ArmourRef>2</ArmourRef>
+      <LeggingsRef>2</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Bandits are your only friend here, everyone else wants your head on a stick.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>40</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>Seek out bandit camps, for they are your only salvation. You can find work and perhaps hire some followers to join your cause. </GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>No going back - Life Extended</StoryName>
+    <StoryDescription>It was supposed to be an easy job.. just break-in while the villagers were at harvest. Simple. No-one saw them coming, the villagers returned early and recognised us instantly. They attacked without warning, we ended up killing many and in the chaos, a fire was started. The village burnt to the ground killing the many women and children. We attempted to catch the remaining villagers but some got away .. now the lord wants our heads.</StoryDescription>
+    <StartingDescription>A small band of fighters, small amount of gold, a cart of resources, 5 skill points to develop your character and a handful of prisoners. </StartingDescription>
+    <StartingGold>475</StartingGold>
+    <StartingRank>2</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>4</PopulationAmounts>
+    <prisonersAmount>6</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>3</HelmetRef>
+      <ArmourRef>2</ArmourRef>
+      <LeggingsRef>2</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>47</ResourceAmount>
+    <RelationText>Bandits are your only friend here, everyone else wants your head on a stick.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>40</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>Seek out bandit camps, for they are your only salvation. You can find work and perhaps hire some followers to join your cause. </GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>No going back - Life Extended Cheat</StoryName>
+    <StoryDescription>Simple job they said, the villagers were still inside the town and spotted you trying to leave with their supplies, they foolishly attacked you and you slaughtered many of the men. Some of your fighters raped and pillaged but you didn't care, you got your pay.</StoryDescription>
+    <StartingDescription>A small band of fighters, a large coffer of gold, a cart of resources, a large amount of skill points to develop your character, a starting rank of 10 and a few women and children help as prisoners. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>4</PopulationAmounts>
+    <prisonersAmount>6</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>3</HelmetRef>
+      <ArmourRef>2</ArmourRef>
+      <LeggingsRef>2</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>47</ResourceAmount>
+    <RelationText>Bandits are your only friend here, everyone else wants to cut you down and hold your head as a prize.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>40</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>2</DifficultyDisplayEnum>
+    <GameHints>Seek out bandit camps, for they are your only salvation. You can find work and perhaps hire some followers to join your cause. </GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Bastard</StoryName>
+    <StoryDescription>You never knew your father, he left before you were born. You mother did her best to raise you on her own, but she died while you were young. One day a merchant came to your village, the sword he was selling, you recognise an inscription, something from your past. You had to have it. Now its time to venture out into the world...</StoryDescription>
+    <StartingDescription>You are poor, but at least you could afford the sword. Wondering alone, you must find some followers fast. or die.</StartingDescription>
+    <StartingGold>25</StartingGold>
+    <StartingRank>0</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>2</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters would kill for that sword.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You are best finding some work to fund your journey. Towns and villages are the best places to do this. Perhaps some followers could help.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Bastard - Life Extended</StoryName>
+    <StoryDescription>You never knew your father, he left before you were born. You mother did her best to raise you on her own, but she died while you were young. One day a merchant came to your village, the sword he was selling, you recognise an inscription, something from your past. You had to have it. Now its time to venture out into the world...</StoryDescription>
+    <StartingDescription>You are poor, but at least you could afford the sword. Wandering alone, you must find some followers fast. or die.</StartingDescription>
+    <StartingGold>125</StartingGold>
+    <StartingRank>0</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>2</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters would kill for that sword.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You are best finding some work to fund your journey. Towns and villages are the best places to do this. Perhaps some followers could help.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Bastard - Life Extended Cheat</StoryName>
+    <StoryDescription>You never knew your father, he left before you were born. You mother did her best to raise you on her own, but she died while you were young. One day a merchant came to your village, the sword he was selling, you recognise an inscription, something from your past. You had to have it. Now its time to venture out into the world...</StoryDescription>
+    <StartingDescription>A Bastard you may be poor you are not! Start with 100000 Gold, 15 skill points to develop your character and a starting rank of 10. Nobody knows you, make your own friends or enemies.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>2</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters would kill for that sword.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You are best finding some work to fund your journey. Towns and villages are the best places to do this. Perhaps some followers could help.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Merchant</StoryName>
+    <StoryDescription>A travelling merchant. Not much of a fighter, but you know how to talk money. The day started like any other, on the road.. until you were jumped by some soldiers. They weren't waving a banner, must be deserters. They took most of your merchandise and killed most of your companions. Time to learn to fight back. </StoryDescription>
+    <StartingDescription>Some resources, a small amount of gold, and a small band of light warriors.</StartingDescription>
+    <StartingGold>120</StartingGold>
+    <StartingRank>3</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>9</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They are hungry for your merchant flesh.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>You skills with trade have got you so far, but now its time to up your game. You can exploit the local supply and demand to gain a fortune. Perhaps find some work to fund your exploits.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Merchant - Life Extended</StoryName>
+    <StoryDescription>A travelling merchant. Not much of a fighter but you know how to talk money. The day started like any other, on the road.. until you were jumped by some soldiers. They weren't waving a banner, must be deserters. They took most of your merchandise and killed most of your companions. Time to learn to fight back. </StoryDescription>
+    <StartingDescription>Start with some resources, a chest of gold and some skill points to develop your character.</StartingDescription>
+    <StartingGold>1200</StartingGold>
+    <StartingRank>3</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>9</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They are hungry for your merchant flesh.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>You skills with trade have got you so far, but now its time to up your game. You can exploit the local supply and demand to gain a fortune. Perhaps find some work to fund your exploits.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Merchant - Life Extended Cheat</StoryName>
+    <StoryDescription>A travelling merchant. Not much of a fighter, but you know how to talk money. The day started like any other, on the road.. until you were jumped by some soldiers. They weren't waving a banner, must be deserters. They took most of your merchandise and killed most of your companions. Time to learn to fight back. </StoryDescription>
+    <StartingDescription>Start with some resources, a large coffer of gold, a large amount of gold and a starting rank of 10.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>9</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits; they want your goods!</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>You skills with trade have got you so far, but now its time to up your game. You can exploit the local supply and demand to gain a fortune. Perhaps find some work to fund your exploits.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Baron of Greywatch</StoryName>
+    <StoryDescription>Your faction is small, a backwater town on a backwater island. Most know nothing of your house, but one day they shall kneel before you. It's time to conquer the land, and take the throne!</StoryDescription>
+    <StartingDescription>Start with a town, some villages, and a small army. Build and defend your territory.</StartingDescription>
+    <StartingGold>150</StartingGold>
+    <StartingRank>3</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+      <PopTypeEnum>7</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>2</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>4</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>4</HelmetRef>
+      <ArmourRef>42</ArmourRef>
+      <LeggingsRef>7</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>3</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. Some see you more favorably than others.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>5</Rel>
+      <Rel>-10</Rel>
+      <Rel>0</Rel>
+      <Rel>-5</Rel>
+      <Rel>8</Rel>
+      <Rel>-2</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Upgrade your town and initiate trade with other factions. You will need a supply of steel and leather if you wish to conquer the world.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>0</Town>
+      <Town>1</Town>
+      <Town>2</Town>
+      <Town>3</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Greywatch</StartingTownName>
+  </Story>
+  <Story>
+    <StoryName>Lord of Greywatch - Life Extended</StoryName>
+    <StoryDescription>Your faction is small, a backwater town on a backwater island. Most know nothing of your house but one day they shall kneel before you. It's time to conquer the land, and take the throne!</StoryDescription>
+    <StartingDescription>Start with a town, some villages, a small army, some skill points and a starting rank of 7. Build your House as you see fit m'lord.</StartingDescription>
+    <StartingGold>3000</StartingGold>
+    <StartingRank>7</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+      <PopTypeEnum>7</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>2</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>1</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>4</WeaponRef>
+      <ShieldRef>2</ShieldRef>
+      <HelmetRef>4</HelmetRef>
+      <ArmourRef>44</ArmourRef>
+      <LeggingsRef>7</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>3</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. Some see you more favorably than others.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>5</Rel>
+      <Rel>-10</Rel>
+      <Rel>0</Rel>
+      <Rel>-5</Rel>
+      <Rel>8</Rel>
+      <Rel>-2</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Upgrade your town and initiate trade with other factions. You will need a supply of steel and leather if you wish to conquer the world.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>0</Town>
+      <Town>1</Town>
+      <Town>2</Town>
+      <Town>3</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Greywatch</StartingTownName>
+  </Story>
+  <Story>
+    <StoryName>Lord of Greywatch - Life Extended Cheat</StoryName>
+    <StoryDescription>Your faction is small, a backwater town on a backwater island. Most know nothing of your house but one day they shall kneel before you. It's time to conquer the land, and take the throne!</StoryDescription>
+    <StartingDescription>Start with a town, some villages, a small army, a large amount of skill points and a starting rank of 10. Build your House as you see fit m'lord.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+      <PopTypeEnum>7</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>2</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>10</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>1</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>13</WeaponRef>
+      <ShieldRef>10</ShieldRef>
+      <HelmetRef>17</HelmetRef>
+      <ArmourRef>44</ArmourRef>
+      <LeggingsRef>4</LeggingsRef>
+      <BootsRef>2</BootsRef>
+      <HorseRef>10</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Upgrade your town and initiate trade with other factions. You will need a supply of steel and leather if you wish to conquer the world.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>0</Town>
+      <Town>1</Town>
+      <Town>2</Town>
+      <Town>3</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Greywatch</StartingTownName>
+  </Story>
+  <Story>
+    <StoryName>Mercs for hire</StoryName>
+    <StoryDescription>A band of warriors for hire. You travel the land, fighting and killing for cash, but you are starting to run low on supplies. Time to find more work before your followers leave.</StoryDescription>
+    <StartingDescription>Start with an army of soldiers. You have impressed some factions, and angered others. </StartingDescription>
+    <StartingGold>80</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>5</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions are pleased with your work, some have vowed to take your head.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-20</Rel>
+      <Rel>-100</Rel>
+      <Rel>25</Rel>
+      <Rel>-30</Rel>
+      <Rel>0</Rel>
+      <Rel>-50</Rel>
+      <Rel>5</Rel>
+      <Rel>-70</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You need to find work quick, else your men will leave. Seek work at towns and villages.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Mercenaries - Life Extended</StoryName>
+    <StoryDescription>A band of warriors for hire. You travel the land, fighting and killing for cash but you are starting to run low on supplies. Time to find more work before your followers leave.</StoryDescription>
+    <StartingDescription>Start with an army of soldiers. You have impressed some factions, and angered others. </StartingDescription>
+    <StartingGold>600</StartingGold>
+    <StartingRank>3</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>5</ShieldRef>
+      <HelmetRef>5</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions are pleased with your work, some have vowed to take your head.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-20</Rel>
+      <Rel>-100</Rel>
+      <Rel>25</Rel>
+      <Rel>-30</Rel>
+      <Rel>0</Rel>
+      <Rel>-50</Rel>
+      <Rel>5</Rel>
+      <Rel>-70</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You need to find work quick, else your men will leave. Seek work at towns and villages.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Mercenaries - Life Extended Cheat</StoryName>
+    <StoryDescription>A band of warriors for hire. You travel the land, fighting and killing for cash but you are starting to run low on supplies. Time to find more work before your followers leave.</StoryDescription>
+    <StartingDescription>Start with an army of soldiers. You have impressed some factions, and angered others. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>8</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>10</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>5</ShieldRef>
+      <HelmetRef>5</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions are pleased with your work, some have vowed to take your head.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-20</Rel>
+      <Rel>-100</Rel>
+      <Rel>25</Rel>
+      <Rel>-30</Rel>
+      <Rel>0</Rel>
+      <Rel>-50</Rel>
+      <Rel>5</Rel>
+      <Rel>-70</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You need to find work quick, else your men will leave. Seek work at towns and villages.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Desperate miner</StoryName>
+    <StoryDescription>Times have been tough, but with the coming war, you see an opportunity to thrive. Too long have you've toiled in the mines, now it is time to rise up and seize power!</StoryDescription>
+    <StartingDescription>Start with a steel mine and some followers. You are isolated, so you may need to explore to find a buyer.</StartingDescription>
+    <StartingGold>60</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>17</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>4</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>11</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions start neutral, just watch out for bandits and deserters.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Try to find a buyer for your wares. Grow your forces and upgrade your village. Watch out for bandits.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>59</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Fitjar Mine</StartingTownName>
+  </Story>
+  <Story>
+    <StoryName>Desperate Miner - Life Extended</StoryName>
+    <StoryDescription>Times have been tough, but with the coming war, you see an opportunity to thrive. Too long have you've toiled in the mines, now it is time to rise up and seize power!</StoryDescription>
+    <StartingDescription>Start with a steel mine and some followers. You are isolated, so you may need to explore to find a buyer.</StartingDescription>
+    <StartingGold>175</StartingGold>
+    <StartingRank>3</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>17</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>4</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>4</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>11</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions start neutral, just watch out for bandits.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Try to find a buyer for your wares. Grow your forces and upgrade your village. Watch out for bandits.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>59</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Fitjar Mine</StartingTownName>
+  </Story>
+  <Story>
+    <StoryName>Desperate Miner - Life Extended Cheat</StoryName>
+    <StoryDescription>Times have been tough, but with the coming war, you see an opportunity to thrive. Too long have you've toiled in the mines, now it is time to rise up and seize power!</StoryDescription>
+    <StartingDescription>Start with a steel mine and some followers. You are isolated, so you may need to explore to find a buyer.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>8</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>17</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>4</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>11</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions start neutral, just watch out for bandits.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Try to find a buyer for your wares. Grow your forces and upgrade your village. Watch out for bandits.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>59</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Fitjar Mine</StartingTownName>
+  </Story>
+  <Story>
+    <StoryName>Lordless Knight</StoryName>
+    <StoryDescription>You are a trained Knight, with no lord or loyalties. Set out into the world and find a new lord or become the most powerful faction in the land.</StoryDescription>
+    <StartingDescription>You start alone with some of the finest armour and weapons around, a pouch of gold and a fine steed.</StartingDescription>
+    <StartingGold>600</StartingGold>
+    <StartingRank>9</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>0</AvailableSkillPoints>
+      <Leadership>4</Leadership>
+      <Productivity>1</Productivity>
+      <Authority>4</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>13</WeaponRef>
+      <ShieldRef>8</ShieldRef>
+      <HelmetRef>15</HelmetRef>
+      <ArmourRef>43</ArmourRef>
+      <LeggingsRef>4</LeggingsRef>
+      <BootsRef>2</BootsRef>
+      <HorseRef>5</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you but be wary of bandits looking for you gear.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-20</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Choose the path for your new life and become the most renown Knight in the land.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Sandbox - Life Extended</StoryName>
+    <StoryDescription>A true sandbox mode, start from nothing and see how far you can get.</StoryDescription>
+    <StartingDescription>You start alone, no weapons, no armour, a fair amount of gold and enough skill points to develop yourself.</StartingDescription>
+    <StartingGold>1500</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>0</LeggingsRef>
+      <BootsRef>0</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you but be wary of bandits looking for you gear.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-20</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Choose the path for your new life and become the most renown Knight in the land.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+  <Story>
+    <StoryName>Sandbox - Life Extended Cheat</StoryName>
+    <StoryDescription>A true sandbox mode, start from nothing and see how far you can get.</StoryDescription>
+    <StartingDescription>You start alone, no weapons, no armour, huge amount of gold and enough skill points to develop yourself.</StartingDescription>
+    <StartingGold>1500000</StartingGold>
+    <StartingRank>15</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>20</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>0</LeggingsRef>
+      <BootsRef>0</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All relations are neutral, forge your own alliances and make your own enemies.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Choose the path for your new life and become the most renown Knight in the land.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>
+</StartingConditions>

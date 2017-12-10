@@ -1,0 +1,61 @@
+<Story>
+    <StoryName>Sandbox - Life Extended</StoryName>
+    <StoryDescription>A true sandbox mode, start from nothing and see how far you can get.</StoryDescription>
+    <StartingDescription>You start alone, no weapons, no armour, a fair amount of gold and enough skill points to develop yourself.</StartingDescription>
+    <StartingGold>1500</StartingGold>
+    <StartingRank>1</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>0</LeggingsRef>
+      <BootsRef>0</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you but be wary of bandits looking for you gear.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-20</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Choose the path for your new life and become the most renown Knight in the land.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

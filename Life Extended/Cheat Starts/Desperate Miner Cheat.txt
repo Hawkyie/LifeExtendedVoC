@@ -1,0 +1,65 @@
+<Story>
+    <StoryName>Desperate Miner - Life Extended Cheat</StoryName>
+    <StoryDescription>Times have been tough, but with the coming war, you see an opportunity to thrive. Too long have you've toiled in the mines, now it is time to rise up and seize power!</StoryDescription>
+    <StartingDescription>Start with a steel mine and some followers. You are isolated, so you may need to explore to find a buyer.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>8</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>17</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>4</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>11</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions start neutral, just watch out for bandits.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Try to find a buyer for your wares. Grow your forces and upgrade your village. Watch out for bandits.</GameHints>
+    <StartingTownsANdVillages>
+      <Town>59</Town>
+    </StartingTownsANdVillages>
+    <StartingTownName>Fitjar Mine</StartingTownName>
+  </Story>

@@ -1,0 +1,61 @@
+<Story>
+    <StoryName>Adventurer - Life Extended</StoryName>
+    <StoryDescription>A modified version of the Adventurer Starting Class modified by Life Extended</StoryDescription>
+    <StartingDescription>You start alone with little gold, a trusty sword and shield and some skill points to develop your character. </StartingDescription>
+    <StartingGold>500</StartingGold>
+    <StartingRank>4</StartingRank>
+    <PopulationTypes />
+    <PopulationAmounts>0</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>5</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>5</WeaponRef>
+      <ShieldRef>1</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef> 2</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits and deserters. They will attack on sight.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>Your best chance is to seek some work, and perhaps some company. Visiting some of the local villages may prove fruitful.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

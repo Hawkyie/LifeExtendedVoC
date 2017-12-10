@@ -1,0 +1,67 @@
+<Story>
+    <StoryName>Mercenaries - Life Extended Cheat</StoryName>
+    <StoryDescription>A band of warriors for hire. You travel the land, fighting and killing for cash but you are starting to run low on supplies. Time to find more work before your followers leave.</StoryDescription>
+    <StartingDescription>Start with an army of soldiers. You have impressed some factions, and angered others. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>8</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>7</PopTypeEnum>
+      <PopTypeEnum>8</PopTypeEnum>
+      <PopTypeEnum>9</PopTypeEnum>
+      <PopTypeEnum>10</PopTypeEnum>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>15</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>10</AvailableSkillPoints>
+      <Leadership>2</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>1</Authority>
+      <Diplomacy>1</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>5</ShieldRef>
+      <HelmetRef>5</HelmetRef>
+      <ArmourRef>3</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>Some factions are pleased with your work, some have vowed to take your head.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>-100</Rel>
+      <Rel>-15</Rel>
+      <Rel>-20</Rel>
+      <Rel>-100</Rel>
+      <Rel>25</Rel>
+      <Rel>-30</Rel>
+      <Rel>0</Rel>
+      <Rel>-50</Rel>
+      <Rel>5</Rel>
+      <Rel>-70</Rel>
+      <Rel>11</Rel>
+      <Rel>1</Rel>
+      <Rel>-6</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>1</DifficultyDisplayEnum>
+    <GameHints>You need to find work quick, else your men will leave. Seek work at towns and villages.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

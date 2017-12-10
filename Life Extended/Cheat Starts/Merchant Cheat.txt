@@ -1,0 +1,63 @@
+<Story>
+    <StoryName>Merchant - Life Extended Cheat</StoryName>
+    <StoryDescription>A travelling merchant. Not much of a fighter, but you know how to talk money. The day started like any other, on the road.. until you were jumped by some soldiers. They weren't waving a banner, must be deserters. They took most of your merchandise and killed most of your companions. Time to learn to fight back. </StoryDescription>
+    <StartingDescription>Start with some resources, a large coffer of gold, a large amount of gold and a starting rank of 10.</StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>11</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>5</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>3</Authority>
+      <Diplomacy>3</Diplomacy>
+      <WeaponRef>1</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>0</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>9</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral, except bandits; they want your goods!</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>-100</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>You skills with trade have got you so far, but now its time to up your game. You can exploit the local supply and demand to gain a fortune. Perhaps find some work to fund your exploits.</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

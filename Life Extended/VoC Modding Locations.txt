@@ -1,0 +1,85 @@
+Greywatch - 0
+Geirvor Farm - 1
+Alviora Quarry - 2
+Hvinir Lumberyard - 3
+Hofsvagr Gold Mine - 4
+Grenmarr Ranch - 5
+Stillwater - 6
+Einarshofn Mine - 7
+Hellisdalr Lumberyard - 8
+Hergilsey Quarry - 9
+Skjaldey Farm - 10
+Rogaland Mine - 11
+Gislavatn Lumberyard - 12
+Hofslond Quarry - 13
+Skjalfandi Farm - 14
+Valehall - 15
+Wolfshall - 16
+Skioadalr Farm - 17
+Stonesfall - 18
+Firoafylki Mine - 19
+Bildsa Quarry - 20
+Herjolfsnes Lumberyard - 21
+Drifandi Farm - 22
+Breioa Ranch - 23
+Maerin Lumberyard - 24
+Stormrise - 25
+Crowsperch - 26
+Highwater - 27
+Husavik Farm - 28
+Groeningr Lumberyard - 29
+OlafsvikSnaef Mine - 30
+Rogaland Ranch - 31
+Daggerok - 32
+Helgasker Farm - 33
+Skalafell Quarry - 34
+Jaoarr Lumberyard - 35
+Feld - 36
+Jaoarr Farm - 37
+Andakilsa Mine - 38
+Kirkjufell Ranch - 39
+Highstone - 40
+Selaeyrr Farm - 41
+Hefn Lumberyard - 42
+Ormsa Quarry - 43
+East point - 44
+Rykinsvik Lumberyard - 45
+Halsaland Mine - 46
+Jorundarholt Ranch - 47
+Bravollr Farm - 48
+Hjaroarholt Gold Mine - 49
+Fljotsa Gold Mine - 50
+Lagarfljot Farm - 51
+Gufaross Lumberyard - 52
+Kleifarlond Mine - 53
+Holmkelsa Ranch - 54
+Deildarey Quarry - 55
+Norsewatch - 56
+SerpentsRest - 57
+Haugar Lumberyard - 58
+Fitjar Mine - 59
+Galtarhamarr Gold Mine - 60
+Barosvik Ranch - 61
+Eilifsdalsa Farm - 62
+Kylansholar Gold Mine - 63
+Haell Quarry - 64
+Jormungand - 65
+Skruoey Mine - 66
+Akrafjally Quarry - 67
+Kylansholar Gold Mine - 68
+Skioadalr Farm - 69
+The Crag - 70
+Gnupudalr Farm - 71
+Gislavotn Farm - 72
+Kaldakinn Ranch - 73
+Skufsloekr Ranch - 74
+Eldueio Lumberyard - 75
+Mosfell Lumberyard - 76
+Kopanes Mine - 77
+Jaoarr Mine - 78
+Asar Quarry - 79
+Kiojaklettr Quarry - 80
+Ghostmarch - 81
+Wreakage point - 82
+Langadalsa Lumberyard - 83
+Iafjoror Quarry - 84

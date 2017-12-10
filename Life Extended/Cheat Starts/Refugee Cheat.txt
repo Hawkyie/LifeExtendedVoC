@@ -1,0 +1,63 @@
+<Story>
+    <StoryName>Refugee - Life Extended Cheat</StoryName>
+    <StoryDescription>Your village burned, your livestock killed and you barely escaped with your life. Without a home, you and a few other survivors have been hiding out in the wilderness as the local lord was too deep into mead to take pity on a few villagers. Barely getting by, day by day. In desperate times you have been elected their leader. You must lead these people to safety. </StoryDescription>
+    <StartingDescription>You begin with a warband of peasants, a large coffer a gold, a large amount of skill points to develop your character and a starting rank of 10. </StartingDescription>
+    <StartingGold>100000</StartingGold>
+    <StartingRank>10</StartingRank>
+    <PopulationTypes>
+      <PopTypeEnum>0</PopTypeEnum>
+    </PopulationTypes>
+    <PopulationAmounts>25</PopulationAmounts>
+    <prisonersAmount>0</prisonersAmount>
+    <HeroUnit>
+      <AvailableSkillPoints>15</AvailableSkillPoints>
+      <Leadership>0</Leadership>
+      <Productivity>0</Productivity>
+      <Authority>0</Authority>
+      <Diplomacy>0</Diplomacy>
+      <WeaponRef>0</WeaponRef>
+      <ShieldRef>0</ShieldRef>
+      <HelmetRef>0</HelmetRef>
+      <ArmourRef>22</ArmourRef>
+      <LeggingsRef>1</LeggingsRef>
+      <BootsRef>1</BootsRef>
+      <HorseRef>0</HorseRef>
+    </HeroUnit>
+    <Resources />
+    <ResourceAmount>0</ResourceAmount>
+    <RelationText>All factions are neutral towards you.</RelationText>
+    <Factions>
+      <Fact>0</Fact>
+      <Fact>1</Fact>
+      <Fact>2</Fact>
+      <Fact>3</Fact>
+      <Fact>4</Fact>
+      <Fact>5</Fact>
+      <Fact>6</Fact>
+      <Fact>7</Fact>
+      <Fact>8</Fact>
+      <Fact>9</Fact>
+      <Fact>10</Fact>
+      <Fact>11</Fact>
+      <Fact>12</Fact>
+    </Factions>
+    <FactionRelations>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+      <Rel>0</Rel>
+    </FactionRelations>
+    <DifficultyDisplayEnum>0</DifficultyDisplayEnum>
+    <GameHints>Time to take on the realm, can you train your peasants into fearsome warriors and give them the blood they seek?</GameHints>
+    <StartingTownsANdVillages />
+    <StartingTownName />
+  </Story>

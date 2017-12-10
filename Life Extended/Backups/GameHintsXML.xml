@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Names>
+  <Name>Low on cash? Seek out work from friendly towns and villages.</Name>
+  <Name>Placing archers on higher terrain increases accuracy.</Name>
+  <Name>Cavalry units are vunerable to spear units.</Name>
+  <Name>Every action you take with a faction affects how much they like you.</Name>
+  <Name>Upgrade your hero's weapons and armour in the armoury. Build one or seek out a friendly town.</Name>
+  <Name>Bank carried gold in friendly towns to avoid losing it when routed.</Name>
+  <Name>Retreating an army will result in losing all carried gold and resources.</Name>
+  <Name>Weather can affect movement speed and projectile accuracy.  </Name>
+  <Name>You can trade resources with towns and villages.</Name>
+  <Name>Give your heroes vassals in the character skills screen, this will give bonuses to towns and villages under their control.</Name>
+  <Name>'M' key forces your selected ranged units to melee, and 'N' back to ranged when selected.</Name>
+  <Name>'L' key dismounts any mounted cavalry units, 'K' will have them return to their horse.</Name>
+  <Name>Random campfire events scatter the world, seek them out.</Name>
+  <Name>Killing enemy heroes pay well.</Name>
+  <Name>Target units that are vunerable to your selected unit types.</Name>
+  <Name>In 'Veil of Crows' game mode, keep your hero alive or it is game over. </Name>
+  <Name>If low on resources, try upgrading your villages.</Name>
+  <Name>Village populations recuperate faster when they are underpopulated.</Name>
+  <Name>If you are desperate to grow town population, consider taking peasants from your villages. </Name>
+  <Name>Resources are needed to build siege equipment during a siege.</Name>
+  <Name>Forgot siege equipment? If another faction isn't using it, it would be wrong to just leave it there</Name>
+  <Name>You can hire hero units at campfires. They are rare so try to keep them alive. </Name>
+  <Name>Peasants are weak, but you don't have to pay them.</Name>
+  <Name>Can't find a quest location? Select your quest in the quest panel, and toggle the finder arrow.</Name>
+  <Name>Improving relations with other factions may unlock new interractions.</Name>
+  <Name>Improve relations by bribing other factions.</Name>
+  <Name>Level 15 hero's can be declared king. King bonuses reach your entire kingdom, just be prepared to go to war.</Name>
+  <Name>Momentum adds bonus damage. Try to charge downhill for an initial damage bonus. </Name>
+  <Name>Killing quest targets aren't the only way to resolve the situation. You may try to negotiate.</Name>
+  <Name>Try negotiating with an enemy army... Or even bribe them.</Name>
+  <Name>Did the game break? Something unbalanced? Or you have an AWESOME idea for the game? Join the discussion at www.veilofcrows.com.</Name>
+  <Name>Use 'Forced march' for a limited speed boost to your armies. </Name>
+  <Name>You can look inside the different building and wall levels by pressing Z, X, C, V.</Name>
+  <Name>Looking to hire more units? You may hire units from Neutral, Bandit, and Deserter armies depending on your relationship to them.</Name>
+  <Name>You can turn off the 'Autosave' during the campaign map in the game options.</Name>
+  <Name>Keep an eye on village workforce percent. This will effect your daily output. </Name>
+  <Name>Join the discussion on steam!</Name>
+  <Name>Your armies carry gold they collect during battle, you must bank it in a friendly town to secure it.</Name>
+  <Name>Bandit camps will get stronger over time as they raid villages. It can be best to deal with them early on.</Name>
+  <Name>The UI upgrade is underway!</Name>
+  <Name>Hold 'Shift' when selecting unit types to filter from your currently selected units.</Name>
+  <Name>Use Spacebar to toggle the tactical slowdown during battle.</Name>
+  <Name>All cavalry units inflict charge damage based on momentum.</Name>
+  <Name>Turn your troops into a meat grinder by setting your formations to defensive. Granting a defence bonus against cavalry charges.</Name>
+  <Name>Setting archers to cautious will have them check not too many friendly troops are near the target before firing. </Name>
+  <Name>Cavalry are best used to outflank enemy archers, or picking off isolated units. Just avoid spearmen at all costs.</Name>
+  <Name>Defend against a cavalry charge on a hill. They cannot inflict momentum damage when ascending. </Name>
+  <Name>Lancer cavalry inflict more charging damage than regular cavalry.</Name>
+  <Name>You can now add your own custom coat of arms! Just put your .png files in the '/Veilofcrows_data/Resources/CustomCOA' folder.</Name>
+  <Name>Want to tweak the game? You can now do so by accessing data the '/Veilofcrows_data/Resources/' folder. And enabling mods in game the options.</Name>
+  <Name>Thank you for your support! Please remember to review Veil of crows on steam!</Name>
+  <Name>Press the retreat Icon to the left of the power bar to retreat during battle. Live to fight another day!</Name>
+</Names>
